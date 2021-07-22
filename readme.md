@@ -2,12 +2,10 @@ My solutions (with explanations) to [CS-6476 Computer Vision](https://dellaert.g
 
 
 1- Pytorch Basics - Computer Vision
-----------------------------
+------------------------------------
 
 2- Image Filtering and Hybrid Images
 --------------------------------------------
-
-**Style Trasnfer using convolutional neural nets**
 
 3- Scene Recongition with Deep Learning (Part 1)
 --------------------------------------------
